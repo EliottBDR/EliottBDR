@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a seconde-year pre-engineering student at CY Tech / Supmeca in France.<br><br>- 📚 I'm currently learning the C programming language and mastering engineering fundamentals.<br><br>- ⚡ In my free time, I love exploring new technologies and discovering how things work.</p>
+<p align="left">- 🔭 I’m a second-year pre-engineering student at CY Tech / Supmeca in France.<br><br>- 📚 I'm currently learning the C programming language and mastering engineering fundamentals.<br><br>- ⚡ In my free time, I love exploring new technologies and discovering how things work.</p>
 
 ###
 
