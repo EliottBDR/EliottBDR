@@ -39,12 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://github.com/sherlock-project/sherlock/raw/master/docs/images/sherlock-logo.png" height="40" alt="sherlock logo"  />
-  <img width="12" />
-  <img src="https://github.com/Te-k/harpoon/raw/main/logo.png" height="40" alt="harpoon logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 
 
 ###
 
