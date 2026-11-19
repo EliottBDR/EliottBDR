@@ -54,3 +54,11 @@
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeadarsh2008&theme=blueberry&show_icons=true&hide_border=true&layout=compact'></td>
 </div> -->
 
+
+
+
+
+<p align="center">
+  <img src="./aviation-stats.svg" alt="Radar ATC animé généré à partir de mes statistiques GitHub" width="100%">
+</p>
+
