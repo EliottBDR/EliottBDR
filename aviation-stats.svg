@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="500" viewBox="0 0 880 500" role="img" aria-label="Radar ATC animé de EliottBDR : 5 dépôts récents" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'Courier New', monospace">
+<title>Radar ATC animé de EliottBDR : 5 dépôts récents</title>
+<style>
+.t{font-family:inherit}
+.dim{fill:#4f8f6b}
+.txt{fill:#a7f3c8}
+.hi{fill:#3dff9a}
+.strip{animation:strip-in .9s ease-out both}
+@keyframes strip-in{from{opacity:0;transform:translateX(14px)}to{opacity:1;transform:translateX(0)}}
+.live{animation:blink 1.6s ease-in-out infinite}
+@keyframes blink{0%,55%{opacity:1}56%,100%{opacity:.15}}
+</style>
+<defs>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+<feGaussianBlur stdDeviation="2.2" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<radialGradient id="vignette" cx="28%" cy="52%" r="75%">
+<stop offset="0" stop-color="#0f2a1d" stop-opacity="0.55"/>
+<stop offset="1" stop-color="#0a0f14" stop-opacity="0"/>
+</radialGradient>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+<rect width="4" height="1" fill="#000" fill-opacity="0.25"/>
+</pattern>
+</defs>
+<rect width="880" height="500" rx="14" fill="#0a0f14" stroke="#16402b"/>
+<rect width="880" height="500" rx="14" fill="url(#vignette)"/>
+<circle class="live" cx="30" cy="29" r="4" fill="#3dff9a" filter="url(#glow)"/>
+<text x="42" y="34" font-size="13" font-weight="bold" class="hi">ATC RADAR // @EliottBDR</text>
+<text x="856" y="34" font-size="10" text-anchor="end" class="dim">UPDATED 2026-11-19 22:43Z</text>
+<line x1="24" y1="46" x2="856" y2="46" stroke="#16402b"/>
+<circle cx="250" cy="262" r="196" fill="#07110c" stroke="#1d5c3a" stroke-width="1.5"/>
+<circle cx="250" cy="262" r="44.6" fill="none" stroke="#1d5c3a" stroke-width="0.8" stroke-dasharray="2 4" opacity="0.8"/>
+<text x="253" y="215.4" font-size="8" class="dim">24H</text>
+<circle cx="250" cy="262" r="81.7" fill="none" stroke="#1d5c3a" stroke-width="0.8" stroke-dasharray="2 4" opacity="0.8"/>
+<text x="253" y="178.3" font-size="8" class="dim">7D</text>
+<circle cx="250" cy="262" r="117.9" fill="none" stroke="#1d5c3a" stroke-width="0.8" stroke-dasharray="2 4" opacity="0.8"/>
+<text x="253" y="142.1" font-size="8" class="dim">30D</text>
+<circle cx="250" cy="262" r="146.7" fill="none" stroke="#1d5c3a" stroke-width="0.8" stroke-dasharray="2 4" opacity="0.8"/>
+<text x="253" y="113.3" font-size="8" class="dim">90D</text>
+<circle cx="250" cy="262" r="184.0" fill="none" stroke="#1d5c3a" stroke-width="0.8" stroke-dasharray="2 4" opacity="0.8"/>
+<text x="253" y="76.0" font-size="8" class="dim">1Y</text>
+<line x1="54" y1="262" x2="446" y2="262" stroke="#1d5c3a" stroke-width="0.8"/>
+<line x1="250" y1="66" x2="250" y2="458" stroke="#1d5c3a" stroke-width="0.8"/>
+<line x1="250.0" y1="66.0" x2="250.0" y2="74.0" stroke="#1d5c3a" stroke-width="1.2"/>
+<text x="250.0" y="53.0" dy="0.35em" font-size="9" text-anchor="middle" class="dim">N</text>
+<line x1="284.0" y1="69.0" x2="283.3" y2="72.9" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="317.0" y1="77.8" x2="315.7" y2="81.6" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="348.0" y1="92.3" x2="344.0" y2="99.2" stroke="#1d5c3a" stroke-width="1.2"/>
+<text x="354.5" y="81.0" dy="0.35em" font-size="9" text-anchor="middle" class="dim">030</text>
+<line x1="376.0" y1="111.9" x2="373.4" y2="114.9" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="400.1" y1="136.0" x2="397.1" y2="138.6" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="419.7" y1="164.0" x2="412.8" y2="168.0" stroke="#1d5c3a" stroke-width="1.2"/>
+<text x="431.0" y="157.5" dy="0.35em" font-size="9" text-anchor="middle" class="dim">060</text>
+<line x1="434.2" y1="195.0" x2="430.4" y2="196.3" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="443.0" y1="228.0" x2="439.1" y2="228.7" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="446.0" y1="262.0" x2="438.0" y2="262.0" stroke="#1d5c3a" stroke-width="1.2"/>
+<text x="459.0" y="262.0" dy="0.35em" font-size="9" text-anchor="middle" class="dim">E</text>
+<line x1="443.0" y1="296.0" x2="439.1" y2="295.3" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="434.2" y1="329.0" x2="430.4" y2="327.7" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="419.7" y1="360.0" x2="412.8" y2="356.0" stroke="#1d5c3a" stroke-width="1.2"/>
+<text x="431.0" y="366.5" dy="0.35em" font-size="9" text-anchor="middle" class="dim">120</text>
+<line x1="400.1" y1="388.0" x2="397.1" y2="385.4" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="376.0" y1="412.1" x2="373.4" y2="409.1" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="348.0" y1="431.7" x2="344.0" y2="424.8" stroke="#1d5c3a" stroke-width="1.2"/>
+<text x="354.5" y="443.0" dy="0.35em" font-size="9" text-anchor="middle" class="dim">150</text>
+<line x1="317.0" y1="446.2" x2="315.7" y2="442.4" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="284.0" y1="455.0" x2="283.3" y2="451.1" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="250.0" y1="458.0" x2="250.0" y2="450.0" stroke="#1d5c3a" stroke-width="1.2"/>
+<text x="250.0" y="471.0" dy="0.35em" font-size="9" text-anchor="middle" class="dim">S</text>
+<line x1="216.0" y1="455.0" x2="216.7" y2="451.1" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="183.0" y1="446.2" x2="184.3" y2="442.4" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="152.0" y1="431.7" x2="156.0" y2="424.8" stroke="#1d5c3a" stroke-width="1.2"/>
+<text x="145.5" y="443.0" dy="0.35em" font-size="9" text-anchor="middle" class="dim">210</text>
+<line x1="124.0" y1="412.1" x2="126.6" y2="409.1" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="99.9" y1="388.0" x2="102.9" y2="385.4" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="80.3" y1="360.0" x2="87.2" y2="356.0" stroke="#1d5c3a" stroke-width="1.2"/>
+<text x="69.0" y="366.5" dy="0.35em" font-size="9" text-anchor="middle" class="dim">240</text>
+<line x1="65.8" y1="329.0" x2="69.6" y2="327.7" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="57.0" y1="296.0" x2="60.9" y2="295.3" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="54.0" y1="262.0" x2="62.0" y2="262.0" stroke="#1d5c3a" stroke-width="1.2"/>
+<text x="41.0" y="262.0" dy="0.35em" font-size="9" text-anchor="middle" class="dim">W</text>
+<line x1="57.0" y1="228.0" x2="60.9" y2="228.7" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="65.8" y1="195.0" x2="69.6" y2="196.3" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="80.3" y1="164.0" x2="87.2" y2="168.0" stroke="#1d5c3a" stroke-width="1.2"/>
+<text x="69.0" y="157.5" dy="0.35em" font-size="9" text-anchor="middle" class="dim">300</text>
+<line x1="99.9" y1="136.0" x2="102.9" y2="138.6" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="124.0" y1="111.9" x2="126.6" y2="114.9" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="152.0" y1="92.3" x2="156.0" y2="99.2" stroke="#1d5c3a" stroke-width="1.2"/>
+<text x="145.5" y="81.0" dy="0.35em" font-size="9" text-anchor="middle" class="dim">330</text>
+<line x1="183.0" y1="77.8" x2="184.3" y2="81.6" stroke="#1d5c3a" stroke-width="0.7"/>
+<line x1="216.0" y1="69.0" x2="216.7" y2="72.9" stroke="#1d5c3a" stroke-width="0.7"/>
+<g>
+<animateTransform attributeName="transform" type="rotate" from="0 250 262" to="360 250 262" dur="10.00s" repeatCount="indefinite"/>
+<path d="M250 262 L243.16 66.12 A196 196 0 0 1 251.37 66.00 Z" fill="#3dff9a" fill-opacity="0.300"/>
+<path d="M250 262 L236.33 66.48 A196 196 0 0 1 244.53 66.08 Z" fill="#3dff9a" fill-opacity="0.273"/>
+<path d="M250 262 L229.51 67.07 A196 196 0 0 1 237.69 66.39 Z" fill="#3dff9a" fill-opacity="0.248"/>
+<path d="M250 262 L222.72 67.91 A196 196 0 0 1 230.87 66.94 Z" fill="#3dff9a" fill-opacity="0.224"/>
+<path d="M250 262 L215.96 68.98 A196 196 0 0 1 224.08 67.72 Z" fill="#3dff9a" fill-opacity="0.201"/>
+<path d="M250 262 L209.25 70.28 A196 196 0 0 1 217.31 68.74 Z" fill="#3dff9a" fill-opacity="0.179"/>
+<path d="M250 262 L202.58 71.82 A196 196 0 0 1 210.59 70.00 Z" fill="#3dff9a" fill-opacity="0.159"/>
+<path d="M250 262 L195.98 73.59 A196 196 0 0 1 203.91 71.50 Z" fill="#3dff9a" fill-opacity="0.139"/>
+<path d="M250 262 L189.43 75.59 A196 196 0 0 1 197.29 73.22 Z" fill="#3dff9a" fill-opacity="0.121"/>
+<path d="M250 262 L182.96 77.82 A196 196 0 0 1 190.74 75.17 Z" fill="#3dff9a" fill-opacity="0.105"/>
+<path d="M250 262 L176.58 80.27 A196 196 0 0 1 184.25 77.36 Z" fill="#3dff9a" fill-opacity="0.089"/>
+<path d="M250 262 L170.28 82.95 A196 196 0 0 1 177.85 79.76 Z" fill="#3dff9a" fill-opacity="0.075"/>
+<path d="M250 262 L164.08 85.84 A196 196 0 0 1 171.53 82.39 Z" fill="#3dff9a" fill-opacity="0.062"/>
+<path d="M250 262 L157.98 88.94 A196 196 0 0 1 165.31 85.24 Z" fill="#3dff9a" fill-opacity="0.050"/>
+<path d="M250 262 L152.00 92.26 A196 196 0 0 1 159.19 88.30 Z" fill="#3dff9a" fill-opacity="0.040"/>
+<path d="M250 262 L146.14 95.78 A196 196 0 0 1 153.19 91.58 Z" fill="#3dff9a" fill-opacity="0.030"/>
+<path d="M250 262 L140.40 99.51 A196 196 0 0 1 147.30 95.06 Z" fill="#3dff9a" fill-opacity="0.022"/>
+<path d="M250 262 L134.79 103.43 A196 196 0 0 1 141.54 98.75 Z" fill="#3dff9a" fill-opacity="0.015"/>
+<path d="M250 262 L129.33 107.55 A196 196 0 0 1 135.90 102.63 Z" fill="#3dff9a" fill-opacity="0.010"/>
+<path d="M250 262 L124.01 111.86 A196 196 0 0 1 130.41 106.71 Z" fill="#3dff9a" fill-opacity="0.006"/>
+<path d="M250 262 L118.85 116.34 A196 196 0 0 1 125.06 110.98 Z" fill="#3dff9a" fill-opacity="0.002"/>
+<path d="M250 262 L113.85 121.01 A196 196 0 0 1 119.87 115.43 Z" fill="#3dff9a" fill-opacity="0.001"/>
+<line x1="250" y1="262" x2="250" y2="66" stroke="#3dff9a" stroke-width="1.6" filter="url(#glow)"/>
+</g>
+<rect x="247.5" y="259.5" width="5" height="5" fill="#3dff9a" filter="url(#glow)"/>
+<g>
+<circle cx="234.25" cy="282.89" r="4" fill="none" stroke="#3572A5" stroke-width="1.2" opacity="0"><animate attributeName="r" values="4;18;18" keyTimes="0;0.2;1" dur="10.00s" begin="-3.972s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.2;1" dur="10.00s" begin="-3.972s" repeatCount="indefinite"/></circle>
+<line x1="234.25" y1="282.89" x2="223.32" y2="284.04" stroke="#3572A5" stroke-width="1" opacity="0.6"/>
+<circle cx="241.22" cy="282.16" r="1.7" fill="#3572A5" opacity="0.5"/>
+<circle cx="247.18" cy="281.54" r="1.4" fill="#3572A5" opacity="0.35"/>
+<circle cx="253.15" cy="280.91" r="1.1" fill="#3572A5" opacity="0.2"/>
+<circle cx="234.25" cy="282.89" r="3.6" fill="#3572A5" opacity="0.4" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;0.4" keyTimes="0;0.6;1" dur="10.00s" begin="-3.972s" repeatCount="indefinite"/></circle>
+<text x="225.3" y="281.9" font-size="10" font-weight="bold" text-anchor="end" class="txt">AVI671</text>
+<text x="225.3" y="292.9" font-size="8" text-anchor="end" class="dim"><1H</text>
+</g>
+<g>
+<circle cx="125.10" cy="160.86" r="4" fill="none" stroke="#555555" stroke-width="1.2" opacity="0"><animate attributeName="r" values="4;18;18" keyTimes="0;0.2;1" dur="10.00s" begin="-1.417s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.2;1" dur="10.00s" begin="-1.417s" repeatCount="indefinite"/></circle>
+<line x1="125.10" y1="160.86" x2="117.05" y2="153.35" stroke="#555555" stroke-width="1" opacity="0.6"/>
+<circle cx="130.22" cy="165.63" r="1.7" fill="#555555" opacity="0.5"/>
+<circle cx="134.60" cy="169.72" r="1.4" fill="#555555" opacity="0.35"/>
+<circle cx="138.99" cy="173.81" r="1.1" fill="#555555" opacity="0.2"/>
+<circle cx="125.10" cy="160.86" r="3.6" fill="#555555" opacity="0.4" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;0.4" keyTimes="0;0.6;1" dur="10.00s" begin="-1.417s" repeatCount="indefinite"/></circle>
+<text x="116.1" y="159.9" font-size="10" font-weight="bold" text-anchor="end" class="txt">SOL498</text>
+<text x="116.1" y="170.9" font-size="8" text-anchor="end" class="dim">5MO</text>
+</g>
+<g>
+<circle cx="230.19" cy="100.68" r="4" fill="none" stroke="#3572A5" stroke-width="1.2" opacity="0"><animate attributeName="r" values="4;18;18" keyTimes="0;0.2;1" dur="10.00s" begin="-0.194s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.2;1" dur="10.00s" begin="-0.194s" repeatCount="indefinite"/></circle>
+<line x1="230.19" y1="100.68" x2="240.46" y2="96.74" stroke="#3572A5" stroke-width="1" opacity="0.6"/>
+<circle cx="223.66" cy="103.19" r="1.7" fill="#3572A5" opacity="0.5"/>
+<circle cx="218.06" cy="105.34" r="1.4" fill="#3572A5" opacity="0.35"/>
+<circle cx="212.45" cy="107.49" r="1.1" fill="#3572A5" opacity="0.2"/>
+<circle cx="230.19" cy="100.68" r="3.6" fill="#3572A5" opacity="0.4" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;0.4" keyTimes="0;0.6;1" dur="10.00s" begin="-0.194s" repeatCount="indefinite"/></circle>
+<text x="221.2" y="99.7" font-size="10" font-weight="bold" text-anchor="end" class="txt">IAL468</text>
+<text x="221.2" y="110.7" font-size="8" text-anchor="end" class="dim">5MO</text>
+</g>
+<g>
+<circle cx="407.04" cy="219.92" r="4" fill="none" stroke="#3572A5" stroke-width="1.2" opacity="0"><animate attributeName="r" values="4;18;18" keyTimes="0;0.2;1" dur="10.00s" begin="-7.917s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.2;1" dur="10.00s" begin="-7.917s" repeatCount="indefinite"/></circle>
+<line x1="407.04" y1="219.92" x2="411.87" y2="210.03" stroke="#3572A5" stroke-width="1" opacity="0.6"/>
+<circle cx="403.98" cy="226.21" r="1.7" fill="#3572A5" opacity="0.5"/>
+<circle cx="401.35" cy="231.60" r="1.4" fill="#3572A5" opacity="0.35"/>
+<circle cx="398.71" cy="237.00" r="1.1" fill="#3572A5" opacity="0.2"/>
+<circle cx="407.04" cy="219.92" r="3.6" fill="#3572A5" opacity="0.4" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;0.4" keyTimes="0;0.6;1" dur="10.00s" begin="-7.917s" repeatCount="indefinite"/></circle>
+<text x="416.0" y="218.9" font-size="10" font-weight="bold" text-anchor="start" class="txt">CAR883</text>
+<text x="416.0" y="229.9" font-size="8" text-anchor="start" class="dim">5MO</text>
+</g>
+<g>
+<circle cx="313.65" cy="411.94" r="4" fill="none" stroke="#3572A5" stroke-width="1.2" opacity="0"><animate attributeName="r" values="4;18;18" keyTimes="0;0.2;1" dur="10.00s" begin="-5.639s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.2;1" dur="10.00s" begin="-5.639s" repeatCount="indefinite"/></circle>
+<line x1="313.65" y1="411.94" x2="312.88" y2="422.92" stroke="#3572A5" stroke-width="1" opacity="0.6"/>
+<circle cx="314.14" cy="404.96" r="1.7" fill="#3572A5" opacity="0.5"/>
+<circle cx="314.55" cy="398.97" r="1.4" fill="#3572A5" opacity="0.35"/>
+<circle cx="314.97" cy="392.99" r="1.1" fill="#3572A5" opacity="0.2"/>
+<circle cx="313.65" cy="411.94" r="3.6" fill="#3572A5" opacity="0.4" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;0.4" keyTimes="0;0.6;1" dur="10.00s" begin="-5.639s" repeatCount="indefinite"/></circle>
+<text x="322.6" y="410.9" font-size="10" font-weight="bold" text-anchor="start" class="txt">FIC177</text>
+<text x="322.6" y="421.9" font-size="8" text-anchor="start" class="dim">5MO</text>
+</g>
+<text x="520" y="76" font-size="11" class="dim">TRAFFIC // 5 AIRCRAFT</text>
+<g class="strip" style="animation-delay:0.00s">
+<rect x="520" y="90" width="336" height="54" rx="4" fill="#0d1a14" stroke="#16402b"/>
+<rect x="520" y="90" width="4" height="54" rx="2" fill="#3572A5"/>
+<text x="536" y="111" font-size="15" font-weight="bold" class="hi">AVI671</text>
+<text x="846" y="111" font-size="11" text-anchor="end" class="dim">LAST COMMIT <1H AGO</text>
+<text x="536" y="127" font-size="11" class="txt">aviation-radar</text>
+<circle cx="540" cy="136" r="3" fill="#3572A5"/>
+<text x="548" y="139" font-size="10" class="dim">Python  ·  ★ 0</text>
+</g>
+<g class="strip" style="animation-delay:0.15s">
+<rect x="520" y="150" width="336" height="54" rx="4" fill="#0d1a14" stroke="#16402b"/>
+<rect x="520" y="150" width="4" height="54" rx="2" fill="#555555"/>
+<text x="536" y="171" font-size="15" font-weight="bold" class="hi">SOL498</text>
+<text x="846" y="171" font-size="11" text-anchor="end" class="dim">LAST COMMIT 5MO AGO</text>
+<text x="536" y="187" font-size="11" class="txt">solstice</text>
+<circle cx="540" cy="196" r="3" fill="#555555"/>
+<text x="548" y="199" font-size="10" class="dim">C  ·  ★ 0</text>
+</g>
+<g class="strip" style="animation-delay:0.30s">
+<rect x="520" y="210" width="336" height="54" rx="4" fill="#0d1a14" stroke="#16402b"/>
+<rect x="520" y="210" width="4" height="54" rx="2" fill="#3572A5"/>
+<text x="536" y="231" font-size="15" font-weight="bold" class="hi">IAL468</text>
+<text x="846" y="231" font-size="11" text-anchor="end" class="dim">LAST COMMIT 5MO AGO</text>
+<text x="536" y="247" font-size="11" class="txt">ia-learning</text>
+<circle cx="540" cy="256" r="3" fill="#3572A5"/>
+<text x="548" y="259" font-size="10" class="dim">Python  ·  ★ 0</text>
+</g>
+<g class="strip" style="animation-delay:0.45s">
+<rect x="520" y="270" width="336" height="54" rx="4" fill="#0d1a14" stroke="#16402b"/>
+<rect x="520" y="270" width="4" height="54" rx="2" fill="#3572A5"/>
+<text x="536" y="291" font-size="15" font-weight="bold" class="hi">CAR883</text>
+<text x="846" y="291" font-size="11" text-anchor="end" class="dim">LAST COMMIT 5MO AGO</text>
+<text x="536" y="307" font-size="11" class="txt">Car-Tracking</text>
+<circle cx="540" cy="316" r="3" fill="#3572A5"/>
+<text x="548" y="319" font-size="10" class="dim">Python  ·  ★ 0</text>
+</g>
+<g class="strip" style="animation-delay:0.60s">
+<rect x="520" y="330" width="336" height="54" rx="4" fill="#0d1a14" stroke="#16402b"/>
+<rect x="520" y="330" width="4" height="54" rx="2" fill="#3572A5"/>
+<text x="536" y="351" font-size="15" font-weight="bold" class="hi">FIC177</text>
+<text x="846" y="351" font-size="11" text-anchor="end" class="dim">LAST COMMIT 5MO AGO</text>
+<text x="536" y="367" font-size="11" class="txt">fiche-revision</text>
+<circle cx="540" cy="376" r="3" fill="#3572A5"/>
+<text x="548" y="379" font-size="10" class="dim">Python  ·  ★ 17</text>
+</g>
+<rect x="520" y="408" width="336" height="56" rx="4" fill="#0d1a14" stroke="#16402b"/>
+<text x="536" y="436" font-size="18" font-weight="bold" class="hi">120</text>
+<text x="536" y="452" font-size="9" class="dim">CONTRIBS/12M</text>
+<text x="620" y="436" font-size="18" font-weight="bold" class="hi">7</text>
+<text x="620" y="452" font-size="9" class="dim">REPOS</text>
+<text x="704" y="436" font-size="18" font-weight="bold" class="hi">18</text>
+<text x="704" y="452" font-size="9" class="dim">STARS</text>
+<text x="788" y="436" font-size="18" font-weight="bold" class="hi">2</text>
+<text x="788" y="452" font-size="9" class="dim">FOLLOWERS</text>
+<text x="520" y="486" font-size="9" class="dim">RANGE = LAST COMMIT AGE (LOG) · COLOUR = LANGUAGE</text>
+<rect width="880" height="500" rx="14" fill="url(#scan)" opacity="0.35" pointer-events="none"/>
+</svg>
