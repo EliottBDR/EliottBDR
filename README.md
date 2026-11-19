@@ -1,64 +1,59 @@
-<h1 align="center">👋 hello world ! I'm Eliott</h1>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=FFFFFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EliottBDR.EliottBDR&"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I’m a second-year pre-engineering student at CY Tech / Supmeca in France.<br><br>- 📚 I'm currently learning the C programming language and mastering engineering fundamentals.<br><br>- ⚡ In my free time, I love exploring new technologies and discovering how things work.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 
-
-###
-
-<h3 align="left"></h3>
-
-<img src="https://raw.githubusercontent.com/itsmeadarsh2008/itsmeadarsh2008/output/snake.svg" alt="Snake animation" />
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=itsmeadarsh2008&theme=nord&column=5" href="https://github.com/ryo-ma/github-profile-trophy"> -->
-</div>
-<div align='center'>
-<!--     <img src='https://github-readme-stats.vercel.app/api?username=itsmeadarsh2008&theme=blueberry&show_icons=true&hide_border=true&count_private=true'></td>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=itsmeadarsh2008&theme=blueberry&hide_border=true'></td>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeadarsh2008&theme=blueberry&show_icons=true&hide_border=true&layout=compact'></td>
-</div> -->
-
-
-
-
-
 <p align="center">
-  <img src="./aviation-stats.svg" alt="Radar ATC animé généré à partir de mes statistiques GitHub" width="100%">
+  <img src="https://raw.githubusercontent.com/EliottBDR/EliottBDR/main/aviation-stats.svg" alt="Radar ATC généré à partir de mes statistiques GitHub" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-0d1a14?style=flat-square&labelColor=0a0f14&color=3dff9a" alt="Status">
+  <img src="https://img.shields.io/badge/SECTOR-AÉRONAUTIQUE-0d1a14?style=flat-square&labelColor=0a0f14&color=3dff9a" alt="Secteur">
+  <img src="https://img.shields.io/badge/LICENCE-SPL-0d1a14?style=flat-square&labelColor=0a0f14&color=3dff9a" alt="Licence SPL">
+</p>
+
+---
+
+### `// IDENT`
+
+```text
+IDENT        Eliott Boudier (EliottBDR)
+STATUS       Étudiant en prépa intégrée, Supmeca / CY Tech
+FIELDS       Informatique · Mécanique · Mathématiques
+LICENCE      SPL (planeur)
+DESTINATION  Aéronautique
+```
+
+---
+
+### `// CLEARED FOR` (stack)
+
+<p>
+  <img src="https://img.shields.io/badge/PYTHON-0d1a14?style=flat-square&logo=python&logoColor=3dff9a&labelColor=0a0f14" alt="Python">
+  <img src="https://img.shields.io/badge/C-0d1a14?style=flat-square&logo=c&logoColor=3dff9a&labelColor=0a0f14" alt="C">
+  <img src="https://img.shields.io/badge/HTML-0d1a14?style=flat-square&logo=html5&logoColor=3dff9a&labelColor=0a0f14" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-0d1a14?style=flat-square&logo=css3&logoColor=3dff9a&labelColor=0a0f14" alt="CSS">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-0d1a14?style=flat-square&logo=javascript&logoColor=3dff9a&labelColor=0a0f14" alt="JavaScript">
+  <img src="https://img.shields.io/badge/FREECAD-0d1a14?style=flat-square&logo=freecad&logoColor=3dff9a&labelColor=0a0f14" alt="FreeCAD">
+</p>
+
+---
+
+### `// TRAFFIC` (projets)
+
+```text
+AVIATION-RADAR   Radar ATC animé (SVG) généré depuis les stats GitHub
+FICHE-REVISION   Outil web de fiches de révision à partir de PDF
+IA-LEARNING      Projet d'apprentissage par renforcement
+```
+
+- [aviation-radar](https://github.com/EliottBDR/aviation-radar) : l'outil qui génère le radar ci-dessus, réutilisable pour n'importe quel profil
+- [fiche-revision](https://fiche-revision.streamlit.app) : application web de révision
+- [ia-learning](https://github.com/EliottBDR/ia-learning) : apprentissage par renforcement
+
+---
+
+### `// FREQUENCY` (contact)
+
+<p>
+  <a href="https://github.com/EliottBDR"><img src="https://img.shields.io/badge/GITHUB-EliottBDR-0d1a14?style=flat-square&logo=github&logoColor=3dff9a&labelColor=0a0f14" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/TON-LIEN"><img src="https://img.shields.io/badge/LINKEDIN-CONTACT-0d1a14?style=flat-square&logo=linkedin&logoColor=3dff9a&labelColor=0a0f14" alt="LinkedIn"></a>
+</p>
+
+<sub>`RADAR UPDATED EVERY 6H · GENERATED BY AVIATION-RADAR`</sub>
