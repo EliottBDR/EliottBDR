@@ -2,60 +2,54 @@
   <img src="https://raw.githubusercontent.com/EliottBDR/EliottBDR/main/aviation-stats.svg" alt="Radar ATC généré à partir de mes statistiques GitHub" width="100%">
 </p>
 
+<h3 align="center">Eliott Boudier</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-101765?style=flat-square&labelColor=0a0e3a&color=b8c4ff" alt="Status">
-  <img src="https://img.shields.io/badge/CAP-AÉRONAUTIQUE-101765?style=flat-square&labelColor=0a0e3a&color=b8c4ff" alt="Cap aéronautique">
+  Étudiant en prépa intégrée Supmeca / CY Tech, entre informatique, mécanique et mathématiques.<br>
+  Je vise l'aéronautique et je monte des projets perso pour apprendre : un drone, des outils, du code.
 </p>
 
----
-
-### `IDENT`
-
-```text
-CALLSIGN     EliottBDR
-NOM          Eliott Boudier
-STATUT       Étudiant en prépa intégrée, Supmeca / CY Tech
-SPÉCIALITÉS  Informatique · Mécanique · Mathématiques
-CAP          Aéronautique
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-e6d5a0?style=flat-square&labelColor=14172a" alt="Status">
+  <img src="https://img.shields.io/badge/CAP-AÉRONAUTIQUE-e6d5a0?style=flat-square&labelColor=14172a" alt="Cap aéronautique">
+</p>
 
 ---
 
 ### `QUALIFICATIONS`
 
-```text
-PYTHON         ███░░  Pratique
-C              ██░░░  Notions solides
-FREECAD        ███░░  Pratique
-3DEXPERIENCE   ██░░░  Notions
-OCAML          █░░░░  En apprentissage
+| Outil | Maîtrise | Niveau |
+|---|---|---|
+| <img src="https://img.shields.io/badge/PYTHON-2f6f8f?style=flat-square&logo=python&logoColor=f0e2b6&labelColor=14172a" alt="Python"> | `███░░` | Pratique |
+| <img src="https://img.shields.io/badge/C-2f6f8f?style=flat-square&logo=c&logoColor=f0e2b6&labelColor=14172a" alt="C"> | `██░░░` | Notions solides |
+| <img src="https://img.shields.io/badge/FREECAD-2f6f8f?style=flat-square&logo=freecad&logoColor=f0e2b6&labelColor=14172a" alt="FreeCAD"> | `███░░` | Pratique |
+| <img src="https://img.shields.io/badge/3DEXPERIENCE-2f6f8f?style=flat-square&logo=dassaultsystemes&logoColor=f0e2b6&labelColor=14172a" alt="3DEXPERIENCE"> | `██░░░` | Notions |
+| <img src="https://img.shields.io/badge/OCAML-2f6f8f?style=flat-square&logo=ocaml&logoColor=f0e2b6&labelColor=14172a" alt="OCaml"> | `█░░░░` | En apprentissage |
 
-ÉCHELLE  1 découverte · 2 notions · 3 pratique · 4 aisé · 5 expert
-OUTILS   Git · GitHub Actions · VS Code
-```
+<sub>1 découverte · 2 notions · 3 pratique · 4 aisé · 5 expert</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/GIT-14172a?style=flat-square&logo=git&logoColor=f0e2b6&labelColor=14172a" alt="Git">
+  <img src="https://img.shields.io/badge/GITHUB_ACTIONS-14172a?style=flat-square&logo=githubactions&logoColor=f0e2b6&labelColor=14172a" alt="GitHub Actions">
+</p>
 
 ---
 
 ### `CARNET DE VOL`
 
-```text
-MORVRAN          Drone FPV à voilure fixe, construction en mousse    EN COURS
-AVIATION-RADAR   Radar ATC animé généré depuis les stats GitHub      EN SERVICE
-FICHE-REVISION   Fiches, quiz et corrections générés depuis un PDF   EN LIGNE
-```
-
-- [Morvran](https://github.com/EliottBDR/Morvran) : conception et construction d'un drone, avec suivi des choix et des dépenses
-- [aviation-radar](https://github.com/EliottBDR/aviation-radar) : l'outil derrière le radar ci-dessus, utilisable pour n'importe quel profil
-- [fiche-revision](https://fiche-revision.streamlit.app) : application web de révision
+| Projet | Description | Statut |
+|---|---|---|
+| [**MORVRAN**](https://github.com/EliottBDR/Morvran) | Drone FPV à voilure fixe, construit en mousse. Conception, choix des composants et suivi du budget. | <img src="https://img.shields.io/badge/EN_COURS-e6d5a0?style=flat-square&labelColor=14172a" alt="En cours"> |
+| [**AVIATION-RADAR**](https://github.com/EliottBDR/aviation-radar) | Radar de contrôle aérien animé en SVG, généré depuis les statistiques GitHub. Utilisable pour n'importe quel profil. | <img src="https://img.shields.io/badge/EN_SERVICE-2f6f8f?style=flat-square&labelColor=14172a" alt="En service"> |
+| [**FICHE-REVISION**](https://fiche-revision.streamlit.app) | Application web qui génère fiches, quiz et corrections à partir d'un PDF. | <img src="https://img.shields.io/badge/EN_LIGNE-2f6f8f?style=flat-square&labelColor=14172a" alt="En ligne"> |
 
 ---
 
 ### `FRÉQUENCE`
 
 <p>
-  <a href="https://github.com/EliottBDR"><img src="https://img.shields.io/badge/GITHUB-EliottBDR-101765?style=flat-square&logo=github&logoColor=b8c4ff&labelColor=0a0e3a" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/TON-LIEN"><img src="https://img.shields.io/badge/LINKEDIN-CONTACT-101765?style=flat-square&logo=linkedin&logoColor=b8c4ff&labelColor=0a0e3a" alt="LinkedIn"></a>
+  <a href="https://github.com/EliottBDR"><img src="https://img.shields.io/badge/GITHUB-EliottBDR-2f6f8f?style=flat-square&logo=github&logoColor=f0e2b6&labelColor=14172a" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/TON-LIEN"><img src="https://img.shields.io/badge/LINKEDIN-CONTACT-2f6f8f?style=flat-square&logo=linkedin&logoColor=f0e2b6&labelColor=14172a" alt="LinkedIn"></a>
 </p>
 
-<sub>`RADAR MIS À JOUR TOUTES LES 6H · GÉNÉRÉ PAR AVIATION-RADAR`</sub>
-<sub>`RADAR UPDATED EVERY 6H · GENERATED BY AVIATION-RADAR`</sub>
+<p align="center"><sub>RADAR MIS À JOUR TOUTES LES 6 H · GÉNÉRÉ PAR AVIATION-RADAR</sub></p>
