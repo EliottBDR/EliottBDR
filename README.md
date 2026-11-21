@@ -13,9 +13,8 @@ Pilote de planeur (SPL), télépilote A1/A3 et titulaire du BIA.
 
 Ce dépôt sert de carnet technique pour mes projets personnels, entre programmation bas niveau, conception mécanique et aéronautique.
 
-[Portfolio](https://ton-lien-portfolio.com) · [LinkedIn](https://linkedin.com/in/ton-profil) · <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EliottBDR.EliottBDR&left_color=161B22&right_color=3FB950" alt="Vues du profil" />
-</p>
+[Portfolio](https://ton-lien-portfolio.com) · [LinkedIn](https://linkedin.com/in/ton-profil) · <img src="https://visitor-badge.laobi.icu/badge?page_id=EliottBDR.EliottBDR&left_color=161B22&right_color=3FB950" alt="Vues du profil" />
+
 
 ## Stack
 
