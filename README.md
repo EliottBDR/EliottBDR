@@ -1,8 +1,4 @@
-<h1 align="center">Hello, World !</h1>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EliottBDR.EliottBDR&left_color=161B22&right_color=3FB950" alt="Vues du profil" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/EliottBDR/EliottBDR/main/hello.svg" alt="Hello, World !" width="364" /> </p> <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=EliottBDR.EliottBDR&left_color=161B22&right_color=3FB950" alt="Vues du profil" height="32" /> </p>
 
 ---
 
