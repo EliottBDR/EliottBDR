@@ -14,7 +14,12 @@
 
 ## À propos
 
-Étudiant en deuxième année de prépa intégrée à CY Tech / Supmeca. Je m'intéresse à l'informatique, à la mécanique et aux mathématiques, et je fais des projets personnels en programmation, électronique et impression 3D.
+Étudiant en 2e année de cycle préparatoire intégré à **CY Tech / ISAE-Supméca** (mathématiques, mécanique, informatique).  
+Pilote de planeur (SPL), télépilote A1/A3 et titulaire du BIA.
+
+Ce dépôt sert de carnet technique pour mes projets personnels, entre programmation bas niveau, conception mécanique et aéronautique.
+
+[Portfolio](https://ton-lien-portfolio.com) · [LinkedIn](https://linkedin.com/in/ton-profil) · 
 
 ## Stack
 
