@@ -43,14 +43,8 @@
 
 ###
 
-<h3 align="left"></h3>
-
-<img src="https://raw.githubusercontent.com/itsmeadarsh2008/itsmeadarsh2008/output/snake.svg" alt="Snake animation" />
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=itsmeadarsh2008&theme=nord&column=5" href="https://github.com/ryo-ma/github-profile-trophy"> -->
-</div>
-<div align='center'>
-<!--     <img src='https://github-readme-stats.vercel.app/api?username=itsmeadarsh2008&theme=blueberry&show_icons=true&hide_border=true&count_private=true'></td>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=itsmeadarsh2008&theme=blueberry&hide_border=true'></td>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeadarsh2008&theme=blueberry&show_icons=true&hide_border=true&layout=compact'></td>
-</div> -->
+@@ -1,59 +1,37 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EliottBDR/EliottBDR/main/aviation-stats.svg" alt="Radar ATC généré à partir de mes statistiques GitHub" width="100%">
+</p>
 
