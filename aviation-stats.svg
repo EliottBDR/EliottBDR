@@ -28,7 +28,7 @@
 <rect width="880" height="500" rx="14" fill="url(#vignette)"/>
 <circle class="live" cx="30" cy="29" r="4" fill="#3dff9a" filter="url(#glow)"/>
 <text x="42" y="34" font-size="13" font-weight="bold" class="hi">ATC RADAR // @EliottBDR</text>
-<text x="856" y="34" font-size="10" text-anchor="end" class="dim">UPDATED 2026-11-20 23:26Z</text>
+<text x="856" y="34" font-size="10" text-anchor="end" class="dim">UPDATED 2026-11-21 04:22Z</text>
 <line x1="24" y1="46" x2="856" y2="46" stroke="#16402b"/>
 <circle cx="250" cy="262" r="196" fill="#07110c" stroke="#1d5c3a" stroke-width="1.5"/>
 <circle cx="250" cy="262" r="44.6" fill="none" stroke="#1d5c3a" stroke-width="0.8" stroke-dasharray="2 4" opacity="0.8"/>
@@ -119,52 +119,52 @@
 </g>
 <rect x="247.5" y="259.5" width="5" height="5" fill="#3dff9a" filter="url(#glow)"/>
 <g>
-<circle cx="223.22" cy="297.54" r="4" fill="none" stroke="#3572A5" stroke-width="1.2" opacity="0"><animate attributeName="r" values="4;18;18" keyTimes="0;0.2;1" dur="10.00s" begin="-3.972s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.2;1" dur="10.00s" begin="-3.972s" repeatCount="indefinite"/></circle>
-<line x1="223.22" y1="297.54" x2="212.28" y2="298.69" stroke="#3572A5" stroke-width="1" opacity="0.6"/>
-<circle cx="230.18" cy="296.81" r="1.7" fill="#3572A5" opacity="0.5"/>
-<circle cx="236.15" cy="296.18" r="1.4" fill="#3572A5" opacity="0.35"/>
-<circle cx="242.12" cy="295.55" r="1.1" fill="#3572A5" opacity="0.2"/>
-<circle cx="223.22" cy="297.54" r="3.6" fill="#3572A5" opacity="0.4" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;0.4" keyTimes="0;0.6;1" dur="10.00s" begin="-3.972s" repeatCount="indefinite"/></circle>
-<text x="214.2" y="296.5" font-size="10" font-weight="bold" text-anchor="end" class="txt">AVI671</text>
-<text x="214.2" y="307.5" font-size="8" text-anchor="end" class="dim">23H</text>
+<circle cx="221.64" cy="299.63" r="4" fill="none" stroke="#3572A5" stroke-width="1.2" opacity="0"><animate attributeName="r" values="4;18;18" keyTimes="0;0.2;1" dur="10.00s" begin="-3.972s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.2;1" dur="10.00s" begin="-3.972s" repeatCount="indefinite"/></circle>
+<line x1="221.64" y1="299.63" x2="210.70" y2="300.78" stroke="#3572A5" stroke-width="1" opacity="0.6"/>
+<circle cx="228.60" cy="298.90" r="1.7" fill="#3572A5" opacity="0.5"/>
+<circle cx="234.57" cy="298.27" r="1.4" fill="#3572A5" opacity="0.35"/>
+<circle cx="240.54" cy="297.65" r="1.1" fill="#3572A5" opacity="0.2"/>
+<circle cx="221.64" cy="299.63" r="3.6" fill="#3572A5" opacity="0.4" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;0.4" keyTimes="0;0.6;1" dur="10.00s" begin="-3.972s" repeatCount="indefinite"/></circle>
+<text x="212.6" y="298.6" font-size="10" font-weight="bold" text-anchor="end" class="txt">AVI671</text>
+<text x="212.6" y="309.6" font-size="8" text-anchor="end" class="dim">28H</text>
 </g>
 <g>
-<circle cx="124.96" cy="160.74" r="4" fill="none" stroke="#555555" stroke-width="1.2" opacity="0"><animate attributeName="r" values="4;18;18" keyTimes="0;0.2;1" dur="10.00s" begin="-1.417s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.2;1" dur="10.00s" begin="-1.417s" repeatCount="indefinite"/></circle>
-<line x1="124.96" y1="160.74" x2="116.91" y2="153.24" stroke="#555555" stroke-width="1" opacity="0.6"/>
-<circle cx="130.08" cy="165.52" r="1.7" fill="#555555" opacity="0.5"/>
-<circle cx="134.47" cy="169.61" r="1.4" fill="#555555" opacity="0.35"/>
-<circle cx="138.85" cy="173.70" r="1.1" fill="#555555" opacity="0.2"/>
-<circle cx="124.96" cy="160.74" r="3.6" fill="#555555" opacity="0.4" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;0.4" keyTimes="0;0.6;1" dur="10.00s" begin="-1.417s" repeatCount="indefinite"/></circle>
-<text x="116.0" y="159.7" font-size="10" font-weight="bold" text-anchor="end" class="txt">SOL498</text>
-<text x="116.0" y="170.7" font-size="8" text-anchor="end" class="dim">5MO</text>
+<circle cx="124.93" cy="160.72" r="4" fill="none" stroke="#555555" stroke-width="1.2" opacity="0"><animate attributeName="r" values="4;18;18" keyTimes="0;0.2;1" dur="10.00s" begin="-1.417s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.2;1" dur="10.00s" begin="-1.417s" repeatCount="indefinite"/></circle>
+<line x1="124.93" y1="160.72" x2="116.89" y2="153.22" stroke="#555555" stroke-width="1" opacity="0.6"/>
+<circle cx="130.05" cy="165.49" r="1.7" fill="#555555" opacity="0.5"/>
+<circle cx="134.44" cy="169.59" r="1.4" fill="#555555" opacity="0.35"/>
+<circle cx="138.83" cy="173.68" r="1.1" fill="#555555" opacity="0.2"/>
+<circle cx="124.93" cy="160.72" r="3.6" fill="#555555" opacity="0.4" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;0.4" keyTimes="0;0.6;1" dur="10.00s" begin="-1.417s" repeatCount="indefinite"/></circle>
+<text x="115.9" y="159.7" font-size="10" font-weight="bold" text-anchor="end" class="txt">SOL498</text>
+<text x="115.9" y="170.7" font-size="8" text-anchor="end" class="dim">5MO</text>
 </g>
 <g>
-<circle cx="230.17" cy="100.52" r="4" fill="none" stroke="#3572A5" stroke-width="1.2" opacity="0"><animate attributeName="r" values="4;18;18" keyTimes="0;0.2;1" dur="10.00s" begin="-0.194s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.2;1" dur="10.00s" begin="-0.194s" repeatCount="indefinite"/></circle>
-<line x1="230.17" y1="100.52" x2="240.44" y2="96.57" stroke="#3572A5" stroke-width="1" opacity="0.6"/>
-<circle cx="223.64" cy="103.03" r="1.7" fill="#3572A5" opacity="0.5"/>
-<circle cx="218.04" cy="105.18" r="1.4" fill="#3572A5" opacity="0.35"/>
-<circle cx="212.43" cy="107.33" r="1.1" fill="#3572A5" opacity="0.2"/>
-<circle cx="230.17" cy="100.52" r="3.6" fill="#3572A5" opacity="0.4" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;0.4" keyTimes="0;0.6;1" dur="10.00s" begin="-0.194s" repeatCount="indefinite"/></circle>
+<circle cx="230.17" cy="100.48" r="4" fill="none" stroke="#3572A5" stroke-width="1.2" opacity="0"><animate attributeName="r" values="4;18;18" keyTimes="0;0.2;1" dur="10.00s" begin="-0.194s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.2;1" dur="10.00s" begin="-0.194s" repeatCount="indefinite"/></circle>
+<line x1="230.17" y1="100.48" x2="240.44" y2="96.54" stroke="#3572A5" stroke-width="1" opacity="0.6"/>
+<circle cx="223.63" cy="102.99" r="1.7" fill="#3572A5" opacity="0.5"/>
+<circle cx="218.03" cy="105.14" r="1.4" fill="#3572A5" opacity="0.35"/>
+<circle cx="212.43" cy="107.29" r="1.1" fill="#3572A5" opacity="0.2"/>
+<circle cx="230.17" cy="100.48" r="3.6" fill="#3572A5" opacity="0.4" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;0.4" keyTimes="0;0.6;1" dur="10.00s" begin="-0.194s" repeatCount="indefinite"/></circle>
 <text x="221.2" y="99.5" font-size="10" font-weight="bold" text-anchor="end" class="txt">IAL468</text>
 <text x="221.2" y="110.5" font-size="8" text-anchor="end" class="dim">5MO</text>
 </g>
 <g>
-<circle cx="407.21" cy="219.88" r="4" fill="none" stroke="#3572A5" stroke-width="1.2" opacity="0"><animate attributeName="r" values="4;18;18" keyTimes="0;0.2;1" dur="10.00s" begin="-7.917s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.2;1" dur="10.00s" begin="-7.917s" repeatCount="indefinite"/></circle>
-<line x1="407.21" y1="219.88" x2="412.03" y2="209.99" stroke="#3572A5" stroke-width="1" opacity="0.6"/>
-<circle cx="404.14" cy="226.17" r="1.7" fill="#3572A5" opacity="0.5"/>
-<circle cx="401.51" cy="231.56" r="1.4" fill="#3572A5" opacity="0.35"/>
-<circle cx="398.88" cy="236.95" r="1.1" fill="#3572A5" opacity="0.2"/>
-<circle cx="407.21" cy="219.88" r="3.6" fill="#3572A5" opacity="0.4" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;0.4" keyTimes="0;0.6;1" dur="10.00s" begin="-7.917s" repeatCount="indefinite"/></circle>
+<circle cx="407.24" cy="219.87" r="4" fill="none" stroke="#3572A5" stroke-width="1.2" opacity="0"><animate attributeName="r" values="4;18;18" keyTimes="0;0.2;1" dur="10.00s" begin="-7.917s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.2;1" dur="10.00s" begin="-7.917s" repeatCount="indefinite"/></circle>
+<line x1="407.24" y1="219.87" x2="412.06" y2="209.98" stroke="#3572A5" stroke-width="1" opacity="0.6"/>
+<circle cx="404.17" cy="226.16" r="1.7" fill="#3572A5" opacity="0.5"/>
+<circle cx="401.54" cy="231.55" r="1.4" fill="#3572A5" opacity="0.35"/>
+<circle cx="398.91" cy="236.95" r="1.1" fill="#3572A5" opacity="0.2"/>
+<circle cx="407.24" cy="219.87" r="3.6" fill="#3572A5" opacity="0.4" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;0.4" keyTimes="0;0.6;1" dur="10.00s" begin="-7.917s" repeatCount="indefinite"/></circle>
 <text x="416.2" y="218.9" font-size="10" font-weight="bold" text-anchor="start" class="txt">CAR883</text>
 <text x="416.2" y="229.9" font-size="8" text-anchor="start" class="dim">5MO</text>
 </g>
 <g>
-<circle cx="313.71" cy="412.09" r="4" fill="none" stroke="#3572A5" stroke-width="1.2" opacity="0"><animate attributeName="r" values="4;18;18" keyTimes="0;0.2;1" dur="10.00s" begin="-5.639s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.2;1" dur="10.00s" begin="-5.639s" repeatCount="indefinite"/></circle>
-<line x1="313.71" y1="412.09" x2="312.94" y2="423.07" stroke="#3572A5" stroke-width="1" opacity="0.6"/>
-<circle cx="314.20" cy="405.11" r="1.7" fill="#3572A5" opacity="0.5"/>
-<circle cx="314.62" cy="399.13" r="1.4" fill="#3572A5" opacity="0.35"/>
-<circle cx="315.04" cy="393.14" r="1.1" fill="#3572A5" opacity="0.2"/>
-<circle cx="313.71" cy="412.09" r="3.6" fill="#3572A5" opacity="0.4" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;0.4" keyTimes="0;0.6;1" dur="10.00s" begin="-5.639s" repeatCount="indefinite"/></circle>
+<circle cx="313.72" cy="412.12" r="4" fill="none" stroke="#3572A5" stroke-width="1.2" opacity="0"><animate attributeName="r" values="4;18;18" keyTimes="0;0.2;1" dur="10.00s" begin="-5.639s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0;0" keyTimes="0;0.2;1" dur="10.00s" begin="-5.639s" repeatCount="indefinite"/></circle>
+<line x1="313.72" y1="412.12" x2="312.96" y2="423.10" stroke="#3572A5" stroke-width="1" opacity="0.6"/>
+<circle cx="314.21" cy="405.14" r="1.7" fill="#3572A5" opacity="0.5"/>
+<circle cx="314.63" cy="399.16" r="1.4" fill="#3572A5" opacity="0.35"/>
+<circle cx="315.05" cy="393.17" r="1.1" fill="#3572A5" opacity="0.2"/>
+<circle cx="313.72" cy="412.12" r="3.6" fill="#3572A5" opacity="0.4" filter="url(#glow)"><animate attributeName="opacity" values="1;0.4;0.4" keyTimes="0;0.6;1" dur="10.00s" begin="-5.639s" repeatCount="indefinite"/></circle>
 <text x="322.7" y="411.1" font-size="10" font-weight="bold" text-anchor="start" class="txt">FIC177</text>
 <text x="322.7" y="422.1" font-size="8" text-anchor="start" class="dim">5MO</text>
 </g>
@@ -173,7 +173,7 @@
 <rect x="520" y="90" width="336" height="54" rx="4" fill="#0d1a14" stroke="#16402b"/>
 <rect x="520" y="90" width="4" height="54" rx="2" fill="#3572A5"/>
 <text x="536" y="111" font-size="15" font-weight="bold" class="hi">AVI671</text>
-<text x="846" y="111" font-size="11" text-anchor="end" class="dim">LAST COMMIT 23H AGO</text>
+<text x="846" y="111" font-size="11" text-anchor="end" class="dim">LAST COMMIT 28H AGO</text>
 <text x="536" y="127" font-size="11" class="txt">aviation-radar</text>
 <circle cx="540" cy="136" r="3" fill="#3572A5"/>
 <text x="548" y="139" font-size="10" class="dim">Python  ·  ★ 0</text>
