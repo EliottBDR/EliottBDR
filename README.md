@@ -1,18 +1,22 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/EliottBDR/EliottBDR/main/hello.svg" alt="Hello, World !" width="364" /> </p> <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=EliottBDR.EliottBDR&left_color=161B22&right_color=3FB950" alt="Vues du profil" height="32" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EliottBDR/EliottBDR/main/hello.svg" alt="Hello, World !" width="364" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=EliottBDR.EliottBDR&left_color=161B22&right_color=3FB950" alt="Vues du profil" height="32" />
+</p>
 
 ---
 
 ## À propos
 
-Étudiant en 2e année de cycle préparatoire intégré à **CY Tech / ISAE-Supméca** (mathématiques, mécanique, informatique).  
-Pilote de planeur (SPL), télépilote A1/A3 et titulaire du BIA.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EliottBDR/EliottBDR/main/about.svg" alt="À propos : étudiant en 2e année de cycle préparatoire intégré à CY Tech / ISAE-Supméca (mathématiques, mécanique, informatique). Pilote de planeur (SPL), télépilote A1/A3 et titulaire du BIA. Domaines : programmation bas niveau, conception mécanique et aéronautique." width="720" />
+</p>
 
-Ce dépôt sert de carnet technique pour mes projets personnels, entre programmation bas niveau, conception mécanique et aéronautique.
-
-[Portfolio](https://ton-lien-portfolio.com) · [LinkedIn](https://linkedin.com/in/ton-profil) 
-
-
-
+<p align="center">
+  <a href="https://ton-lien-portfolio.com">Portfolio</a> · <a href="https://linkedin.com/in/ton-profil">LinkedIn</a>
+</p>
 
 ## Stack
 
