@@ -25,15 +25,19 @@ Hors écran, je fais de la batterie depuis une dizaine d'années et je passe pas
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/C-161B22?style=flat&logo=c&logoColor=white" alt="C" /></td>
-    <td><img src="https://progress-bar.xyz/65/?width=200&color=3FB950&title=&suffix=%25" alt="C 65%" /></td>
+    <td><img src="https://progress-bar.xyz/80/?width=200&color=3FB950&title=&suffix=%25" alt="C 80%" /></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=white" alt="Python" /></td>
-    <td><img src="https://progress-bar.xyz/75/?width=200&color=3FB950&title=&suffix=%25" alt="Python 75%" /></td>
+    <td><img src="https://progress-bar.xyz/30/?width=200&color=3FB950&title=&suffix=%25" alt="Python 30%" /></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/OCaml-161B22?style=flat&logo=ocaml&logoColor=white" alt="OCaml" /></td>
-    <td><img src="https://progress-bar.xyz/25/?width=200&color=3FB950&title=&suffix=%25" alt="OCaml 25%" /></td>
+    <td><img src="https://progress-bar.xyz/10/?width=200&color=3FB950&title=&suffix=%25" alt="OCaml 10%" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/LaTeX-161B22?style=flat&logo=latex&logoColor=white" alt="LaTeX" /></td>
+    <td><img src="https://progress-bar.xyz/10/?width=200&color=3FB950&title=&suffix=%25" alt="LaTeX 10%" /></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/FreeCAD-161B22?style=flat&logo=freecad&logoColor=white" alt="FreeCAD" /></td>
@@ -41,18 +45,35 @@ Hors écran, je fais de la batterie depuis une dizaine d'années et je passe pas
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/3DEXPERIENCE-161B22?style=flat&logo=dassaultsystemes&logoColor=white" alt="3DEXPERIENCE" /></td>
-    <td><img src="https://progress-bar.xyz/40/?width=200&color=3FB950&title=&suffix=%25" alt="3DEXPERIENCE 40%" /></td>
+    <td><img src="https://progress-bar.xyz/60/?width=200&color=3FB950&title=&suffix=%25" alt="3DEXPERIENCE 60%" /></td>
   </tr>
 </table>
 
+**Web et embarqué**
+
+<img src="https://img.shields.io/badge/HTML-161B22?style=flat&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-161B22?style=flat&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C++-161B22?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Streamlit-161B22?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+**Vision et IA**
+
+<img src="https://img.shields.io/badge/OpenCV-161B22?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/YOLO-161B22?style=flat&logoColor=white" alt="YOLO" />
+
+**Outils et systèmes**
+
+<img src="https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-161B22?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Arduino_IDE-161B22?style=flat&logo=arduino&logoColor=white" alt="Arduino IDE" />
+<img src="https://img.shields.io/badge/Linux-161B22?style=flat&logo=linux&logoColor=white" alt="Linux" />
+<img src="https://img.shields.io/badge/Windows-161B22?style=flat&logo=windows&logoColor=white" alt="Windows" />
+
 ## Projets
 
-- [**aviation-radar**](https://github.com/EliottBDR/aviation-radar) : le radar en bas de cette page, généré à partir de mes statistiques GitHub et mis à jour par GitHub Actions.
-- [**fiche-revision**](https://github.com/EliottBDR/fiche-revision) : application web qui transforme un PDF de cours en fiche de révision, en quiz ou en correction de DS ([voir le site](https://fiche-revision.streamlit.app)).
-- [**ia-learning**](https://github.com/EliottBDR/ia-learning) : premiers essais d'apprentissage par renforcement avec Stable Baselines3 sur CartPole.
-- [**Morvran**](https://github.com/EliottBDR/Morvran) : drone à voilure fixe en mousse, en cours de conception.
-- **Afficheur de trains** : ESP32 et écran e-paper qui indiquent quand partir pour le prochain RER, avec les retards et la météo. En cours, pas encore publié.
-- **Boîte anti-distraction** : boîte imprimée en 3D qui garde mon téléphone fermé pendant un timer de révision. En cours.
+Cette section est en travaux. Je mettrai bientôt à jour mes différents projets.
 
 ## Statistiques
 
